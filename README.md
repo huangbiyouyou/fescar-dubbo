@@ -1,0 +1,2 @@
+# fescar-dubbo
+项目是一个针对阿里新开源的fescar分布式事务框架的练习，使用zookeeper做注册中心
